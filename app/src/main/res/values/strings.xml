@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstWireframe</string>
+    <string name="bem_vindo_ao_meu_aplicativo">Bem-vindo ao meu aplicativo</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="n_o_possui_conta">Não possui conta?</string>
+    <string name="cadastre_se_aqui">Cadastre-se aqui</string>
+</resources>
